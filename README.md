@@ -97,7 +97,8 @@ module tb6;
 ## Operation / Truth Table
 
 Register contents after each active clock edge (sin sequence = 1, 0, 1, 1)
-<img width="406" height="181" alt="image" src="https://github.com/user-attachments/assets/7a5c1c67-4160-938b-3647f8630dd7" />
+<img width="719" height="289" alt="image" src="https://github.com/user-attachments/assets/ea6cdd00-9850-4544-8ae4-f8c52524ed9d" />
+
 
 ## Simulation Procedure
 
@@ -150,7 +151,7 @@ Q(next) = {Q[2:0], sin}
 The design was compiled and simulated using Synopsys VCS, and the functionality was verified using DVE waveform analysis, matching the expected operation table.
 
 ## Output
-<img width="1600" height="825" alt="exp 6 output" src="https://github.com/user-attachments/assets/d33822ac-a4ab-4035-aef1-6de336f27ac5" />
+<img width="1600" height="825" alt="image" src="https://github.com/user-attachments/assets/2434b490-c4b5-43a0-a0dc-32790967548b" />
 
 ## Result
 

@@ -97,10 +97,7 @@ module tb6;
 ## Operation / Truth Table
 
 Register contents after each active clock edge (sin sequence = 1, 0, 1, 1)
-
-<img width="719" height="289" alt="exp 6" src="https://github.com/user-attachments/assets/aaf06ea8-59b9-4b3b-9277-8599b4480206" />
-
-
+<img width="406" height="181" alt="image" src="https://github.com/user-attachments/assets/7a5c1c67-4160-938b-3647f8630dd7" />
 
 ## Simulation Procedure
 
@@ -154,9 +151,6 @@ The design was compiled and simulated using Synopsys VCS, and the functionality 
 
 ## Output
 <img width="1600" height="825" alt="exp 6 output" src="https://github.com/user-attachments/assets/d33822ac-a4ab-4035-aef1-6de336f27ac5" />
-
-
-
 
 ## Result
 

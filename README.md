@@ -98,8 +98,9 @@ module tb6;
 
 Register contents after each active clock edge (sin sequence = 1, 0, 1, 1)
 
+<img width="719" height="289" alt="exp 6" src="https://github.com/user-attachments/assets/aaf06ea8-59b9-4b3b-9277-8599b4480206" />
 
-<img width="719" height="289" alt="image" src="https://github.com/user-attachments/assets/23217e32-5cbc-41d3-ab0b-f828ff1de3df" />
+
 
 ## Simulation Procedure
 
@@ -152,9 +153,10 @@ Q(next) = {Q[2:0], sin}
 The design was compiled and simulated using Synopsys VCS, and the functionality was verified using DVE waveform analysis, matching the expected operation table.
 
 ## Output
+<img width="1600" height="825" alt="exp 6 output" src="https://github.com/user-attachments/assets/d33822ac-a4ab-4035-aef1-6de336f27ac5" />
 
 
-<img width="1600" height="825" alt="exp 6 output" src="https://github.com/user-attachments/assets/a6e3b76c-80c1-4c1d-8073-4c799b934e70" />
+
 
 ## Result
 
